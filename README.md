@@ -32,7 +32,7 @@ AI-Mental-health-Assistance-/
 ├── mhsds_master_historical.csv # The unified production dataset
 ├── requirements.txt
 └── README.md
-
+```
 
 ## ⚙️ Installation
 
@@ -46,20 +46,18 @@ AI-Mental-health-Assistance-/
 ```bash
         python -m venv venv
         .\venv\Scripts\activate
-        ```
+```
     *   **macOS/Linux:**
 ```bash
         python3 -m venv venv
         source venv/bin/activate
-        ```
+```
 
 3.  **Install Core and Specialized Dependencies:**
 ```bash
     pip install --upgrade pip
     pip install -r requirements.txt
-    ```
-
----
+```
 
 ## 🚀 Running the Pipeline
 
@@ -68,7 +66,7 @@ To execute the master analytics runner across all chronological sprint directori
 ```bash
 python run_all.py
 
----
+```
 
 ## 📂 Dependencies
 
@@ -88,7 +86,7 @@ The pipeline requires the following Python libraries for data processing, modeli
 ```bash
 pip install -r requirements.txt
 
----
+```
 
 ## 📊 Outputs
 

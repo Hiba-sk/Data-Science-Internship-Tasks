@@ -38,9 +38,13 @@ AI-Mental-health-Assistance-/
 
 ### Prerequisites
 *   **Python 3.8+**
-*   **Git** (installed and configured)
+*   **Git** (Installed on your local machine to clone the repository)
     ```
-
+### Setup Steps
+1.  **Clone your Repository:**
+    ```bash
+    git clone [(https://github.com/Hiba-sk/Data-Science-Internship-Tasks)]
+    ```
 2.  **Create and Activate a Virtual Environment:**
     *   **Windows:**
 ```bash

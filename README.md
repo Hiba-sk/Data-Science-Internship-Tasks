@@ -43,7 +43,8 @@ AI-Mental-health-Assistance-/
 ### Setup Steps
 1.  **Clone your Repository:**
     ```bash
-    git clone [(https://github.com/Hiba-sk/Data-Science-Internship-Tasks)]
+    git clone [https://github.com/Hiba-sk/Data-Science-Internship-Tasks.git](https://github.com/Hiba-sk/Data-Science-Internship-Tasks.git)
+   cd Data-Science-Internship-Tasks
     ```
 2.  **Create and Activate a Virtual Environment:**
     *   **Windows:**
